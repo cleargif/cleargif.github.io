@@ -4,7 +4,7 @@
   <title><![CDATA[ClearGif has a say..]]></title>
   <link href="http://cleargif.github.io/atom.xml" rel="self"/>
   <link href="http://cleargif.github.io/"/>
-  <updated>2014-02-19T13:48:05+00:00</updated>
+  <updated>2014-02-19T13:50:06+00:00</updated>
   <id>http://cleargif.github.io/</id>
   <author>
     <name><![CDATA[@cleargif]]></name>
@@ -14,18 +14,24 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Welcome! Octopress ROCKS!]]></title>
+    <title type="html"><![CDATA[Welcome!]]></title>
     <link href="http://cleargif.github.io/blog/2014/02/19/welcome-octopress-rocks/"/>
     <updated>2014-02-19T10:39:13+00:00</updated>
     <id>http://cleargif.github.io/blog/2014/02/19/welcome-octopress-rocks</id>
-    <content type="html"><![CDATA[<p>Been meaning to get a blog going for a while now. Even tried Octopress a while
+    <content type="html"><![CDATA[<h2 id="octopress--rocks">Octopress  ROCKS!</h2>
+<p>Been meaning to get a blog going for a while now. Even tried Octopress a while
 back but it did not go so well. Lucky for me I tried it again and it could not
 have been easier.</p>
+
+<p>Will post any changes I am making to the config here.</p>
 
 <p><a href="http://octopress.org/docs/setup/" target="_blank">Start here</a> and you will be up and running
 in no time at all.</p>
 
 <p>Going to try an post a few things each week. Let see how it goes.</p>
+
+<p><em>Update:</em>
+- changed to Kramdown</p>
 ]]></content>
   </entry>
   
