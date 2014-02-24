@@ -4,7 +4,7 @@
   <title><![CDATA[ClearGif has a say..]]></title>
   <link href="http://cleargif.github.io/atom.xml" rel="self"/>
   <link href="http://cleargif.github.io/"/>
-  <updated>2014-02-24T09:03:06+00:00</updated>
+  <updated>2014-02-24T09:04:38+00:00</updated>
   <id>http://cleargif.github.io/</id>
   <author>
     <name><![CDATA[@cleargif]]></name>
@@ -33,6 +33,8 @@ names in the industry.</p>
 <p>Use Chrome! Get onto a Mac. Learn to love command line. Lint your JavaScript.</p>
 
 <p>People you need to follow / research:</p>
+
+<!-- more -->
 
 <h3 id="css">CSS:</h3>
 <ul>
