@@ -4,7 +4,7 @@
   <title><![CDATA[ClearGif has a say..]]></title>
   <link href="http://cleargif.github.io/atom.xml" rel="self"/>
   <link href="http://cleargif.github.io/"/>
-  <updated>2014-02-24T08:59:45+00:00</updated>
+  <updated>2014-02-24T09:01:13+00:00</updated>
   <id>http://cleargif.github.io/</id>
   <author>
     <name><![CDATA[@cleargif]]></name>
@@ -35,31 +35,39 @@ names in the industry.</p>
 <p>People you need to follow / research:</p>
 
 <h3 id="css">CSS:</h3>
-<p>Lea Verou
-Nicole Sullivan
-Chris Coyer
-Eric Meyer
-@snookca</p>
+<ul>
+  <li>Lea Verou</li>
+  <li>Nicole Sullivan</li>
+  <li>Chris Coyer</li>
+  <li>Eric Meyer</li>
+  <li>@snookca</li>
+</ul>
 
 <h3 id="js">JS:</h3>
-<p>Paul Irish
-Paul Lewis
-Addy Osmani
-Sindre Sorhus
-Ben Alman
-Rebecca Murphey
-Douglas Crockford - you can never read / watch enough of this guy!
-Derek Bailey (watchmecode.com)
-Remy Sharp</p>
+<ul>
+  <li>Paul Irish</li>
+  <li>Paul Lewis</li>
+  <li>Addy Osmani</li>
+  <li>Sindre Sorhus</li>
+  <li>Ben Alman</li>
+  <li>Rebecca Murphey</li>
+  <li>Douglas Crockford - you can never read / watch enough of this guy!</li>
+  <li>Derek Bailey (watchmecode.com)</li>
+  <li>Remy Sharp</li>
+</ul>
 
 <h3 id="html">HTML:</h3>
-<p>htmldog.com
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Mozilla Developer Network</a></p>
+<ul>
+  <li>htmldog.com</li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">Mozilla Developer Network</a></li>
+</ul>
 
 <p>NEVER NEVER NEVER: www.w3schools.com EVER!!</p>
 
 <h3 id="websites">Websites:</h3>
-<p><a href="http://www.appliness.com/">appliness</a> (they have an iPad app)</p>
+<ul>
+  <li><a href="http://www.appliness.com/">appliness</a> (they have an iPad app)</li>
+</ul>
 
 <p>FE development these days is about JavaScript and the workflow around it. But just jumping into
 JS using a library is dangerous.</p>
