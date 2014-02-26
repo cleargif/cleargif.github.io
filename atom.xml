@@ -4,7 +4,7 @@
   <title><![CDATA[ClearGif has a say..]]></title>
   <link href="http://cleargif.github.io/atom.xml" rel="self"/>
   <link href="http://cleargif.github.io/"/>
-  <updated>2014-02-26T09:47:01+00:00</updated>
+  <updated>2014-02-26T09:59:36+00:00</updated>
   <id>http://cleargif.github.io/</id>
   <author>
     <name><![CDATA[@cleargif]]></name>
@@ -18,14 +18,12 @@
     <link href="http://cleargif.github.io/blog/2014/02/25/demo-time/"/>
     <updated>2014-02-25T18:02:27+00:00</updated>
     <id>http://cleargif.github.io/blog/2014/02/25/demo-time</id>
-    <content type="html"><![CDATA[<p>Doing a demo for <a href="http://gerraroom.it">Gerraroom.it</a> tonight.</p>
+    <content type="html"><![CDATA[<p>We went to the <a href="https://twitter.com/search?q=%23dpmb18&amp;src=hash" target="_blank">#DPMB18</a> and did a little demo of the system.</p>
 
-<p>Everyone is here tonight.</p>
+<p><img class="left" src="http://cleargif.github.io/images/DPMB18/DPMB18-1.jpg" />
+<img class="right" src="http://cleargif.github.io/images/DPMB18/DPMB18-2.jpg" /></p>
 
-<p><img src="http://placekitten.com/890/280" />
-<img class="left" src="http://placekitten.com/320/250" title="Place Kitten #2" />
-<img class="right" src="http://placekitten.com/300/500" width="150" height="250" title="Place Kitten #3" />
-<img class="right" src="http://placekitten.com/300/500" width="150" height="250" title="Place Kitten #4" alt="An image of a very cute kitten" /></p>
+<p>Find out more about <a href="http://dont.pitchmebro.com/" target="_blank">Don’t Pitch Me Bro</a></p>
 ]]></content>
   </entry>
   
