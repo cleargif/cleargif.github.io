@@ -4,7 +4,7 @@
   <title><![CDATA[ClearGif has a say..]]></title>
   <link href="http://cleargif.github.io/atom.xml" rel="self"/>
   <link href="http://cleargif.github.io/"/>
-  <updated>2014-02-26T10:01:06+00:00</updated>
+  <updated>2014-02-26T10:03:15+00:00</updated>
   <id>http://cleargif.github.io/</id>
   <author>
     <name><![CDATA[@cleargif]]></name>
@@ -20,8 +20,10 @@
     <id>http://cleargif.github.io/blog/2014/02/25/demo-time</id>
     <content type="html"><![CDATA[<p>We went to the <a href="https://twitter.com/search?q=%23dpmb18&amp;src=hash" target="_blank">#DPMB18</a> and did a little demo of the system.</p>
 
-<p><img class="left" src="http://cleargif.github.io/images/DPMB18/DPMB18-1.jpg" width="300" />
-<img class="right" src="http://cleargif.github.io/images/DPMB18/DPMB18-2.jpg" width="300" /></p>
+<div class="clearfix">
+<img class="left" src="http://cleargif.github.io/images/DPMB18/DPMB18-1.jpg" width="300" />
+<img class="right" src="http://cleargif.github.io/images/DPMB18/DPMB18-2.jpg" width="300" />
+</div>
 
 <p>Find out more about <a href="http://dont.pitchmebro.com/" target="_blank">Don’t Pitch Me Bro</a></p>
 ]]></content>
