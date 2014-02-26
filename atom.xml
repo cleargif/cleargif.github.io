@@ -4,7 +4,7 @@
   <title><![CDATA[ClearGif has a say..]]></title>
   <link href="http://cleargif.github.io/atom.xml" rel="self"/>
   <link href="http://cleargif.github.io/"/>
-  <updated>2014-02-26T10:07:05+00:00</updated>
+  <updated>2014-02-26T10:22:57+00:00</updated>
   <id>http://cleargif.github.io/</id>
   <author>
     <name><![CDATA[@cleargif]]></name>
@@ -22,6 +22,24 @@
 
 <p><img class="left" src="http://cleargif.github.io/images/DPMB18/DPMB18-1.jpg" width="300" />
 <img class="right" src="http://cleargif.github.io/images/DPMB18/DPMB18-2.jpg" width="300" /></p>
+
+<h3 id="a-little-demo-video-we-did-before-the-meeting">A little demo video we did before the meeting.</h3>
+
+<div class="ratio-4-3 embed-video-container" onclick="var myAnchor = document.getElementById('RLM2jAc8_a0');var tmpDiv = document.createElement('div');tmpDiv.innerHTML = '&lt;iframe style=&quot;vertical-align:top;width:100%;height:100%;position:absolute;&quot; src=&quot;http://www.youtube.com/embed/RLM2jAc8_a0?autoplay=1&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;';myAnchor.parentNode.replaceChild(tmpDiv.firstChild, myAnchor);return false;" title="click here to play">
+<a class="youtube-lazy-link" style="width:100%;height:100%;background:#000 url(http://i2.ytimg.com/vi/RLM2jAc8_a0/0.jpg) center center no-repeat;background-size:contain;position:absolute" href="http://www.youtube.com/watch?v=RLM2jAc8_a0" id="RLM2jAc8_a0" onclick="return false;">
+<div class="youtube-lazy-link-div"></div>
+<div class="youtube-lazy-link-info">Gerraroom Demo 25-02-2014_01</div>
+</a>
+<div class="video-info">Gerraroom is a private social network inspired by the need to extend your personal privacy into your digital world to enable greater freedom of expression.
+
+Put a layer over your digital world, easily compartmentalise it into rooms for each of your groups or activities and then share almost anything.
+
+Gerraroom uses the latest technology to access your data from all of your cloud drives and social media accounts and displays it across a range of views from a huge, zooming, scrolling canvas to a more organised list, grid and slideshow.
+
+We are a private company totally focussed on the needs of our users and our investor free model allows for lower levels of advertising.
+
+Try this for real at http://gerraroom.it/</div>
+</div>
 
 <div style="clear:both;"></div>
 <p>Find out more about <a href="http://dont.pitchmebro.com/" target="_blank">Don’t Pitch Me Bro</a></p>
